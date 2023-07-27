@@ -1,5 +1,3 @@
-using Orleans;
-
 namespace BookStore.Entities;
 
 [GenerateSerializer]
